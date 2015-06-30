@@ -1,11 +1,11 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: The Art Gallery.
+description: "Op de Art Gallery worden illustraties en kunstfoto's getoond beschikbaar voor aankoop welke zorgvuldig zijn uitgezocht door onze redactie."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+url: "https://theartgallery.github.io"
 
 # Build settings
 markdown: kramdown
@@ -13,13 +13,13 @@ permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#00b3fe" #"#F70031" 
-  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
-  secondary: "#384452" #"#33004D"
-  link: "#428bca"
-  link_hover: "#01b2fe"
-  footer_heading: "#ffffff"
-  footer_content: "#bfc9d3"
+  primary: "#B1AFA2" #"#F70031" 
+  primary_rgb: "177,175,162" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
+  secondary: "#FFC161" #"#33004D"
+  link: "#232D64"
+  link_hover: "#FFC9EF"
+  footer_heading: "#FEFFAA"
+  footer_content: "#B1AFA2"
   
   
 ### CONTACT SETTINGS ###
